@@ -1,6 +1,6 @@
 //import the function circle from index.js
 
-const { circleService } = require('./index.js');
+const { circleService } = require('./circle.js');
 
 //import assertion from chai
 const expect = require('chai').expect;
