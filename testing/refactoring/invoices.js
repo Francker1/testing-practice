@@ -2,7 +2,7 @@ export default {
   "customer": "BigCo",
   "performances": [{
     "playID": "hamlet",
-    "audience": 55
+    "audience": 55,
   }, {
     "playID": "as-like",
     "audience": 35
