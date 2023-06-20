@@ -4,6 +4,7 @@ import createStatementData from './createStatementData.js';
 
 function statement(invoice, plays) {
 
+  console.log(createStatementData(invoice, plays))
   return renderPlainText(createStatementData(invoice, plays));
 }
 
